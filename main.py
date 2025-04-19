@@ -5,6 +5,7 @@ from post_generator import generate_post
 length_options = ["Short", "Medium", "Long"]
 language_options = ["English", "Hinglish"]
 
+
 def main():
     st.set_page_config(page_title="LinkedIn Post Generator", layout="centered")
 
